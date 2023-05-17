@@ -1,11 +1,11 @@
 <?php
 
 
-class Category {
-  public $name;
+class Categorie {
+  public $nome;
 
-  function __construct($_name) {
-    $this->name = $_name;
+  function __construct($nome) {
+    $this->nome = $nome;
   }
 
 }

@@ -1,8 +1,8 @@
 <?php
 
-include_once __DIR__ . '/Models/Category.php'
+include_once __DIR__ . '/Category.php';
 
-class Product {
+class Prodotto {
     public $img;
     public $name;
     public $price;
